@@ -14,7 +14,7 @@ import random
 isDebugDisp = False
 
 # Constants
-TOKEN = "MTMxNzk4NjYzOTcwMzcwNzcxMw.GqwJX9.3h4m43R75kjzuaVkujQA8M1oGJfPtoRSeAvaio"  # Replace with your bot's token
+TOKEN = ""  # Replace with your bot's token
 AUDIO_VOLUME = 0.1  # Audio volume level
 DB_PATH = "./assets/db/channel_check.db"
 
