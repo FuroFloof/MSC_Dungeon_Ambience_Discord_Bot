@@ -21,7 +21,7 @@ except ImportError:
 # ─────────────────────────────────────────────────────
 # CONFIGURATION CONSTANTS
 # ─────────────────────────────────────────────────────
-TOKEN = ""  # supply your token or use env var
+TOKEN = " "  # supply your token or use env var
 FONT_PATH = "./fonts/font.ttf"  # TrueType font for captions
 PADDING = 12                    # px top / bottom padding inside caption bar
 MIN_FONT_SIZE = 12             # stops binary‑search shrinking
